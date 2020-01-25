@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://agritechdynamics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: agritechdynam
 github_username:  agritechdynamics
-#linkedin_username: 
+linkedin_username: agritech-dynamics 
 
 # Build settings
 markdown: kramdown
@@ -75,7 +75,7 @@ footer:
       url: "https://github.com/AgriTechDynamics/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/agritech-dynamics"
 
 defaults:
   # _pages
