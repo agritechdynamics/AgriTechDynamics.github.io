@@ -75,7 +75,7 @@ footer:
       url: "https://github.com/AgriTechDynamics/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/
+      url: "https://www.linkedin.com/"
 
 defaults:
   # _pages
