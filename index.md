@@ -6,12 +6,11 @@ layout: single
 header:
 ---
 
-
 Using Technology to make farming easier for the farmer
 
-Core Competencies
 * Priority on animal health
-* First to 5G to bring field closer to the field
+* First to 5G for field connectivity
+
 
 
 

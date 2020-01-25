@@ -4,10 +4,7 @@ title: Technology
 permalink: /technology/
 ---
 
-Using Technology to make farming easier for the farmer
 
-
-
-
+Leveraging machine learning to monitor animal health
 
 
