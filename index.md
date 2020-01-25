@@ -7,11 +7,7 @@ header:
 ---
 
 
-# AgriTech Dynamics
-
 Using Technology to make farming easier for the farmer
-
-
 
 Core Competencies
 * Priority on animal health
