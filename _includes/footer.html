@@ -1,0 +1,52 @@
+<!-- Begin MailChimp Signup Form -->
+<link href="/assets/css/mailchimp.css" rel="stylesheet" type="text/css">
+<!--End mc_embed_signup-->
+
+
+<div id="mc_embed_signup">
+<form action="https://turbulentdynamics.us19.list-manage.com/subscribe/post?u=7205f9978d3510d3baf85f41c&amp;id=c068748be7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" >
+	<label for="mce-EMAIL" style="font-size:14px;">Subscribe to the newsletter</label>
+	<input style="font-size:12px;" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7205f9978d3510d3baf85f41c_c068748be7" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+
+    <li>Dublin, Zagreb, San Francisco, Melbourne</li>
+
+
+    <!--<li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>-->
+  </ul>
+
+
+<div><img src="/assets/images/zicer-logotip.png" alt="Zicer" width="120">U okviru Zagrebačkog inovacijskog centra d.o.o. korisnik potpore Grada Zagreba</div>
+
+
+
+
+<div class="page__footer-copyright">&copy;{{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>&amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes.</a></div>
+
+
+</div>
+
+
+
